@@ -1,0 +1,1 @@
+mysite --> www.aljs.pw
